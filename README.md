@@ -17,7 +17,7 @@ data or streaming updates via [Apache Arrow](https://arrow.apache.org/).
 
 ## Features
 
-- A fast, memory efficient streaming query engine, written in C++ and compiled to [WebAssembly](https://webassembly.org/), with read/write/stream support for [Apache Arrow]().
+- A fast, memory efficient streaming query engine, written in C++ and compiled to [WebAssembly](https://webassembly.org/), with read/write/stream support for [Apache Arrow](https://arrow.apache.org/).
 
 - A framework-agnostic query configuration UI component, based on [Web Components](https://www.webcomponents.org/), and a WebWorker and/or WebSocket data engine host for stable interactivity at high frequency.
 
@@ -25,7 +25,8 @@ data or streaming updates via [Apache Arrow](https://arrow.apache.org/).
 
 - Integration with [Jupyterlab](https://jupyterlab.readthedocs.io/en/stable/), both natively in a Python kernel, and as a notebook Widget.
 
-- Cross-language streaming and/or virtualization to the browser via [Apache Arrow](https://arrow.apache.org/).
+- Cross-language streaming and/or virtualization to the browser via [
+](https://arrow.apache.org/).
 
 - Runtimes for the browser, Python, and Node.js.
 
